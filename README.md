@@ -1,1 +1,1 @@
-# Wave-Telegram-Bot
+# WavesBot
